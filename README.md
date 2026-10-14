@@ -6,7 +6,7 @@ A simulated enterprise-grade campus and branch network built and validated in Ci
 
 ## 📌 Architecture Topology
 
-![Topology Diagram](docs/topology-diagram.png)
+![Topology Diagram](docs/Topology_Diagram.png)
 
 ### Key Network Segments
 * **HQ Campus:**
